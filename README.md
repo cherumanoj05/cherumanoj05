@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherumanoj05
-- 👀 I’m interested in Python and Frontend Development
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Problem solving.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me search manoj cheru on any social media... 
 
