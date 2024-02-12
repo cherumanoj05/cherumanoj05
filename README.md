@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me search manoj cheru on any social media... 
+- 📫 ... 
 
 <!---
 cherumanoj05/cherumanoj05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
