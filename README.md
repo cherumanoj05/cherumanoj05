@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 ... 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=cherumanoj05&color=brightgreen&style=flat)
 ## 💻 Languages I Often Use
 ![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherumanoj05&layout=compact&theme=slateorange&langs_count=6)
 
